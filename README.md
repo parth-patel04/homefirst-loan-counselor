@@ -83,7 +83,7 @@ git --version
 # Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/homefirst-loan-counselor.git
+git clone https://github.com/parth-patel04/homefirst-loan-counselor.git
 cd homefirst-loan-counselor
 ```
 
