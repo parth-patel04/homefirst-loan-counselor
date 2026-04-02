@@ -431,4 +431,4 @@ After eligibility is confirmed, proactively show 3 EMI scenarios at different te
 Post-handoff, sending the user a WhatsApp message with a secure document upload link. Pre-filling the form with the entities already collected (name, income, loan amount) so the user only needs to upload the actual files. This reduces document collection time from days to hours and directly improves loan processing TAT.
 
 
-# This is a complete overview of the project that includes all the required details and I am confident that I can build this project successfully at a production level scale through guidance and mentorship. 
+This is a complete overview of the project that includes all the required details and I am confident that I can build this project successfully at a production level scale through guidance and mentorship. 
